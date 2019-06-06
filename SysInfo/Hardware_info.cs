@@ -38,6 +38,7 @@ namespace SysInfo
                 Console.WriteLine("Architecture: {0}", GetArchitectureDetail(int.Parse(item["Architecture"].ToString())));
             }
         }
+        
         /// <summary>
         /// Private method for GetArchitectureDetail
         /// </summary>
@@ -57,6 +58,7 @@ namespace SysInfo
                     return "Unkown";
             }
         }
+
         /// <summary>
         /// Motherboard info
         /// </summary>
@@ -456,6 +458,7 @@ namespace SysInfo
                 return convertedTime;
             }
         }
+
         /// <summary>
         /// Method for calling the Mobo_info
         /// </summary>
@@ -479,6 +482,7 @@ namespace SysInfo
             Console.WriteLine("SystemName: " + MotherboardInfo.SystemName);
             Console.WriteLine("Version: " + MotherboardInfo.Version);
         }
+
         /// <summary>
         /// GPU info
         /// </summary>

@@ -20,3 +20,14 @@ D:\Git\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.AssemblyInfoInputs.cache
 D:\Git\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.AssemblyInfo.cs
 D:\Git\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.dll
 D:\Git\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.pdb
+E:\Git Clones\SysInfo\SysInfo\bin\Debug\netcoreapp2.2\SysInfo.deps.json
+E:\Git Clones\SysInfo\SysInfo\bin\Debug\netcoreapp2.2\SysInfo.runtimeconfig.json
+E:\Git Clones\SysInfo\SysInfo\bin\Debug\netcoreapp2.2\SysInfo.runtimeconfig.dev.json
+E:\Git Clones\SysInfo\SysInfo\bin\Debug\netcoreapp2.2\SysInfo.dll
+E:\Git Clones\SysInfo\SysInfo\bin\Debug\netcoreapp2.2\SysInfo.pdb
+E:\Git Clones\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.csprojAssemblyReference.cache
+E:\Git Clones\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.csproj.CoreCompileInputs.cache
+E:\Git Clones\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.AssemblyInfoInputs.cache
+E:\Git Clones\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.AssemblyInfo.cs
+E:\Git Clones\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.dll
+E:\Git Clones\SysInfo\SysInfo\obj\Debug\netcoreapp2.2\SysInfo.pdb

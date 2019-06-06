@@ -947,23 +947,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hkova\\.nuget\\packages\\": {},
+    "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\SysInfo\\SysInfo\\SysInfo.csproj",
+      "projectUniqueName": "E:\\Git Clones\\SysInfo\\SysInfo\\SysInfo.csproj",
       "projectName": "SysInfo",
-      "projectPath": "D:\\Git\\SysInfo\\SysInfo\\SysInfo.csproj",
-      "packagesPath": "C:\\Users\\hkova\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\SysInfo\\SysInfo\\obj\\",
+      "projectPath": "E:\\Git Clones\\SysInfo\\SysInfo\\SysInfo.csproj",
+      "packagesPath": "C:\\Users\\Hristo Kovachev\\.nuget\\packages\\",
+      "outputPath": "E:\\Git Clones\\SysInfo\\SysInfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hristo Kovachev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
